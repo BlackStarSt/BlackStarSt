@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BlackStarSt (Sthefany)
-- 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... Python
+- 👋 Hi, I’m @BlackStarSt (Sthefany Alves)
+- 👀 I’m interested in ... learning and work
+- 🌱 I’m currently learning ... JavaScript, HTML and CSS
 - 💞️ I’m looking to collaborate on ... everthing I can do!
 - 📫 How to reach me ... https://www.linkedin.com/in/sthefany-alves-02999b207/
 
