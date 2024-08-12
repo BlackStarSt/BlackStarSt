@@ -6,15 +6,22 @@
 
 <h1 align="center">Badges da ONE</h1></br>
 
-![badge_1](https://user-images.githubusercontent.com/101078506/176948259-f315ba01-b8bb-4105-9806-35483485c8fd.png)
-<p>-> 1° Challenge - Criptografador de Textos</p>
+<section style="display: flex; flex-direction: row;">
+  <div>
+    <p>-> 1° Challenge - Criptografador de Textos</p>
+    <img src="https://user-images.githubusercontent.com/101078506/176948259-f315ba01-b8bb-4105-9806-35483485c8fd.png" width="300">
+  </div>
 
-![badge_2](https://user-images.githubusercontent.com/101078506/176945003-27cb7a5a-9c77-4ee7-8de3-d5bfaabe0d43.png)
-<p>-> 2° Challenge - Jogo da Forca</p>
-
-![badge_3](https://user-images.githubusercontent.com/101078506/176945004-c23e48fe-5b8c-4f43-9395-c23f514884be.png)
-<p>-> 3° Challenge - Portfólio</p>
-
+  <div>
+    <p>-> 2° Challenge - Jogo da Forca</p>
+    <img src="https://user-images.githubusercontent.com/101078506/176945003-27cb7a5a-9c77-4ee7-8de3-d5bfaabe0d43.png" width="300">
+  </div>
+  
+  <div>
+    <p>-> 3° Challenge - Portfólio</p>
+    <img src="https://user-images.githubusercontent.com/101078506/176945004-c23e48fe-5b8c-4f43-9395-c23f514884be.png" width="300">
+  <\div>
+</section>
 <!---
 BlackStarSt/BlackStarSt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
