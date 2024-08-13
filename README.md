@@ -8,9 +8,9 @@
 <h1 align="center">Badges da ONE</h1></br>
 
 <div style="display: flex; flex-direction: row;">
-    <img src="https://user-images.githubusercontent.com/101078506/176948259-f315ba01-b8bb-4105-9806-35483485c8fd.png"width="300">
-    <img src="https://user-images.githubusercontent.com/101078506/176945003-27cb7a5a-9c77-4ee7-8de3-d5bfaabe0d43.png" width=300">
-    <img src="https://user-images.githubusercontent.com/101078506/176945004-c23e48fe-5b8c-4f43-9395-c23f514884be.png" width="300">
+    <img src="https://user-images.githubusercontent.com/101078506/176948259-f315ba01-b8bb-4105-9806-35483485c8fd.png"width="250">
+    <img src="https://user-images.githubusercontent.com/101078506/176945003-27cb7a5a-9c77-4ee7-8de3-d5bfaabe0d43.png" width=250">
+    <img src="https://user-images.githubusercontent.com/101078506/176945004-c23e48fe-5b8c-4f43-9395-c23f514884be.png" width="250">
 </div>
 
 <!---
