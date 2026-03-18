@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sistemas de Informação I UVV - 4/8<br>Linguagens: Java, JavaScript, Python e TypeScript<br>Idiomas: Português e Inglês
+Sistemas de Informação I UVV - 6/8<br>Linguagens: Java, JavaScript, Python e TypeScript<br>Idiomas: Português e Inglês
 
 
 ## 🌐 Socials:
